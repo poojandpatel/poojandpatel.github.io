@@ -17,5 +17,5 @@ theme:
     
 # Navigation Bar
 nav:
-    - Home: index.md
-    - About: about.md
+    - Home: 'index.md'
+    - About: 'about.md'
