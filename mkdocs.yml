@@ -2,6 +2,7 @@
 site_description: Poojan's website; built using MKDocs
 site_author: Poojan Patel
 site_url: https://poojandpatel@github.io
+site_name: POOJAN PATEL
 
 # Configuration
 theme:
