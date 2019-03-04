@@ -1,6 +1,6 @@
 # Project information
-site_name: poojan
-site_description: poojan's website; built using MKDocs
+site_name: Poojan
+site_description: Poojan's website; built using MKDocs
 site_author: Poojan Patel
 site_url: https://poojandpatel@github.io
 
@@ -18,4 +18,4 @@ theme:
 # Navigation Bar
 nav:
     - Home: index.md
-  
+    - About: about.md
