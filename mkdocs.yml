@@ -12,7 +12,7 @@ theme:
     text: Roboto
     code: Roboto Mono
   palette:
-    primary: orange
+    primary: blue
     accent: indigo
     
 # Navigation Bar
