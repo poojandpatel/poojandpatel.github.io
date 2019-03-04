@@ -1,5 +1,4 @@
 # Project information
-site_name: Poojan
 site_description: Poojan's website; built using MKDocs
 site_author: Poojan Patel
 site_url: https://poojandpatel@github.io
@@ -14,7 +13,7 @@ theme:
   palette:
     primary: #002c56
     accent: indigo
-  logo: 'https://www.pngarts.com/files/3/Letter-P-PNG-Transparent-Image.png'   
+  logo: logo.png
 # Navigation Bar
 nav:
     - Home: 'index.md'
