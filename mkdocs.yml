@@ -1,0 +1,21 @@
+# Project information
+site_name: poojan
+site_description: poojan's website; built using MKDocs
+site_author: Poojan Patel
+site_url: https://poojandpatel@github.io
+
+# Configuration
+theme:
+  name: material
+  language: en
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    primary: indigo
+    accent: indigo
+    
+# Navigation Bar
+nav:
+    - Home: index.md
+  
