@@ -14,8 +14,9 @@ theme:
   palette:
     primary: #002c56
     accent: indigo
-    
+  logo: 'https://www.pngarts.com/files/3/Letter-P-PNG-Transparent-Image.png'   
 # Navigation Bar
 nav:
     - Home: 'index.md'
     - About: 'about.md'
+
